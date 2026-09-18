@@ -1,0 +1,3 @@
+"Timestamp","EmployeeId","UserPrincipalName","Action","Status","Details"
+"2026-09-16T12:19:53","LAB1002","maya.brooks@contoso.onmicrosoft.com","Mover lifecycle change","Success","SG-IAM-HumanResources removed; SG-IAM-InformationTechnology assigned"
+"2026-09-16T12:22:24","LAB1002","maya.brooks@contoso.onmicrosoft.com","Mover lifecycle change","Skipped","Requested identity and access state already exists"

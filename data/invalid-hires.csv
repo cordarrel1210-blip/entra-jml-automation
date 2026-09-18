@@ -1,0 +1,4 @@
+"EmployeeId","FirstName","LastName","DisplayName","UserPrincipalName","Department","JobTitle","UsageLocation","Action"
+"LAB1001","Jordan","Reed","Jordan Reed","invalid-upn","Finance","Financial Analyst","US","Joiner"
+"LAB1002","Maya","Brooks","Maya Brooks","maya.brooks@contoso.onmicrosoft.com","Human Resources","HR Coordinator","US","Joiner"
+"LAB1003","Ethan","Cole","Ethan Cole","ethan.cole@contoso.onmicrosoft.com","Information Technology","Support Analyst","US","Joiner"

@@ -1,0 +1,3 @@
+data/temporary-credentials.xml
+*.secret
+.env
