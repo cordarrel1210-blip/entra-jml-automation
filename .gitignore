@@ -1,3 +1,5 @@
 data/temporary-credentials.xml
 *.secret
 .env
+
+docs/IAM-JML-Interview-Cheat-Sheet.md
